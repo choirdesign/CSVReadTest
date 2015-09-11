@@ -1,3 +1,2 @@
 # CSVReadTest
-parsing CSV and instantiate
-wahahahahah
+git対象にしていなかったプロジェクトを読み込むにはどうしたらいいんだー
